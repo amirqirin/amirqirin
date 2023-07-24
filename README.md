@@ -20,9 +20,9 @@ I enjoy helping others make the most out of their technology.
 
 I love working on various projects that challenge me and allow me to grow as a developer. Here are some of the exciting projects I've worked on:
 
-1. [Project 1](link_to_project_1_repo): A brief description of project 1.
-2. [Project 2](link_to_project_2_repo): A brief description of project 2.
-3. [Project 3](link_to_project_3_repo): A brief description of project 3.
+1. https://github.com/amirqirin/OnlineSportStore.git: Online Sports Store using html,css,js and php.
+2. https://github.com/amirqirin/OnlineBankingSystem.git: Online Banking System using html,css,js and php.
+3. https://github.com/amirqirin/LandmarkQuiz.git: Landmarks Quiz using MIT App Inventor.
 
 Feel free to explore my repositories to find more of my work!
 
@@ -32,7 +32,7 @@ I'm always excited to connect with fellow developers and collaborate on interest
 
 - LinkedIn: https://www.linkedin.com/in/amirqirin/
 - Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- Personal Website: [https://www.instagram.com/qirinnnnn/]
+- Instagram: https://www.instagram.com/qirinnnnn/
 
 If you have any questions or need assistance with PC-related matters, don't hesitate to reach out. I'm looking forward to connecting with you!
 
