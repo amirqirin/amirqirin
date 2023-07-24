@@ -1,5 +1,8 @@
 # Hi there, I'm Amir Syaqirin! 👋
 
+![Profile Picture](gmbr resume2.png) <!-- Replace "link_to_your_profile_picture.png" with the URL of your profile picture -->
+
+
 Welcome to my GitHub repository! I'm delighted to have you here. Allow me to introduce myself:
 
 ## About Me
