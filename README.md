@@ -31,7 +31,6 @@ Feel free to explore my repositories to find more of my work!
 I'm always excited to connect with fellow developers and collaborate on interesting projects. Let's stay in touch:
 
 - LinkedIn: https://www.linkedin.com/in/amirqirin/
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 - Instagram: https://www.instagram.com/qirinnnnn/
 
 If you have any questions or need assistance with PC-related matters, don't hesitate to reach out. I'm looking forward to connecting with you!
