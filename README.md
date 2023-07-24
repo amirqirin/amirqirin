@@ -30,7 +30,7 @@ Feel free to explore my repositories to find more of my work!
 
 I'm always excited to connect with fellow developers and collaborate on interesting projects. Let's stay in touch:
 
-- LinkedIn: [Your LinkedIn Profile URL](link_to_your_linkedin_profile)
+- LinkedIn: https://www.linkedin.com/in/amirqirin/
 - Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 - Personal Website: [YourWebsite.com](https://www.yourwebsite.com)
 
